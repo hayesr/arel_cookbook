@@ -15,6 +15,8 @@ ApplicationRecord.connection.query_value(sql)
 ```
 
 ## Handling replicas
+Our team used this idea when we moved from a single database server to a primary/read-replica setup.
+
 ```ruby
 begin
   # Try the reading replica first
