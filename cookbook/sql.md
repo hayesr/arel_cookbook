@@ -1,4 +1,4 @@
-# A SQL Primer
+# SQL Resources
 
 [Structured Query Language](https://en.wikipedia.org/wiki/SQL) is how we tell databases what shape we want to see our data in. It's a _declarative_ language, which roughly means it describes the final output and doesn't care about the procedures or implementation of how to produce it.
 
