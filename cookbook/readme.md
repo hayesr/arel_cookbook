@@ -12,7 +12,7 @@ Arel (sometimes stylized ARel) originally stood for "A Relational Algebra", over
 - 3.0: A SQL AST manager for Ruby
 - 7.1: "Arel Really Exasperates Logicians"
 
-By 6.0, the team behind Arel stopped using the phrase "Relational Algebra" and described it a SQL AST manager.
+By 6.0, the team behind Arel seem to have stopped using the phrase "Relational Algebra" and described it a SQL AST manager.
 
 The original readme included this description:
 
@@ -44,7 +44,7 @@ In practice if you have Arel code, and you want it to work after a Rails upgrade
 - Comparisons
 - Joins
 - Working with JSON
-- Math
+- [Math](math.md)
 - CTEs
 - Aggregate Functions
 - Window Functions
