@@ -48,7 +48,7 @@ In practice if you have Arel code, and you want it to work after a Rails upgrade
 - CTEs
 - Aggregate Functions
 - Window Functions
-- CASE Statements
+- [CASE Statements](case.md)
 - Misc tools
 - Inserts
 - Updates
